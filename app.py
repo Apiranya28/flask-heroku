@@ -29,7 +29,7 @@ def hello():
 def get_api():
     return jsonify(data)
 
-@app.route('/สวัสดี")
+@app.route('/สวัสดี')
 @app.route('/สวัสดี')
 
 def hi():
