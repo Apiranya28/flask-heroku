@@ -31,7 +31,6 @@ def get_api():
 
 @app.route('/สวัสดี')
 @app.route('/สวัสดี')
-
 def hi():
     return "สวัสดี" 
 
